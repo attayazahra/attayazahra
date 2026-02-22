@@ -1,4 +1,4 @@
-# Halo! Saya attayazahra 👋
+# Halo! i'm attayazahra 👋
 
 ## 🚀 About Me
 - 🔭 I'm currently working on **Website with PWA (Progressive Web App) features**
