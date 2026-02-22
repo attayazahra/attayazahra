@@ -1,15 +1,14 @@
+# Halo! Saya attayazahra 👋
+
 ## 🚀 Tentang Saya
 - 🔭 Saat ini saya sedang mengembangkan **Website dengan fitur PWA (Progressive Web App)**
 - 🌱 Saya sedang mempelajari **React.js, JavaScript, dan PWA**
 - 👯 Saya ingin berkolaborasi dalam proyek **web development**
 - 📫 Cara menghubungi saya: [GitHub/attayazahra](https://github.com/attayazahra)
 
-## 📋 Projek yang Pernah Saya Kerjakan Sebelumnya:
+## 📋 Projek yang Pernah Saya Kerjakan:
 - **Pendaftaran-Pasien-FE** - Aplikasi front-end untuk pendaftaran pasien
 - **kalkulator-FE** - Aplikasi kalkulator sederhana
-- 🌱 Saya sedang mempelajari **React.js, JavaScript, dan pengembangan front-end**
-- 👯 Saya ingin berkolaborasi dalam proyek **web development**
-- 📫 Cara menghubungi saya: [GitHub/attayazahra](https://github.com/attayazahra)
 
 ## 🛠️ Bahasa dan Alat yang Saya Gunakan
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -25,13 +24,7 @@
 
 ## 🔥 Proyek Unggulan
 
-### 📋 Pendaftaran-Pasien-FE
-Aplikasi front-end untuk sistem pendaftaran pasien. Dibangun dengan JavaScript.
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=attayazahra&repo=Pendaftaran-Pasien-FE&theme=radical)](https://github.com/attayazahra/Pendaftaran-Pasien-FE)
-
-### 🧮 kalkulator-FE
-Aplikasi kalkulator sederhana untuk latihan JavaScript.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=attayazahra&repo=kalkulator-FE&theme=radical)](https://github.com/attayazahra/kalkulator-FE)
 
