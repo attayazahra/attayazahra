@@ -20,10 +20,6 @@
 ---
 
 <p align="center">
-  <i>"I want the whole world to know my name."</i> – CORTIS, What You Want
-</p>
-
-<p align="center">
   <b>✨ Thanks for stopping by! ✨</b><br>
   <a href="https://github.com/attayazahra">attayazahra</a>
 </p>
